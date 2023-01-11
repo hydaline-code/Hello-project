@@ -1,14 +1,36 @@
-###HELLO-WORLD PROJECT#######
 
+<!-- PROJECT DESCRIPTION -->
 
-This is my first project at Microverse:Hello World Project 
-It will be done in Html and Css i.e mainly an introductory to a frontend (Client-side)
-We will touch on some features such as : branching & pull requests…
-We will also present the Linter configs and eventually configure it for Html and Css
-To run the project you will  need a computer with at least one browser installed 
+# Hello-World project
 
-Author : Hydaline-code(Github username)
-##########
+> It is the first Microverse project to get more aquinted with git features and getting to know some 
+  professional coding habits.
+
+## 🛠 Built With: Html & Css
+
+### Tech Stack: Linter
+
+> Introduced us on how to configure and use Linter in our codes for bug fix.
+> The project repository is public so anyone can just fork it from my Github account.
+
+### Prerequisites
+
+In order to run this project you need:
+-A computer
+-A github account 
+-A working browser installed
+
+<!-- AUTHORS -->
+
+## 👥 Author: 
+GitHub: https://github.com/hydaline-code)
+
+<!-- LICENSE -->
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+###########################################################################################################
 
 # HTML & CSS3 Course
 
