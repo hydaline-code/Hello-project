@@ -1,3 +1,15 @@
+###HELLO-WORLD PROJECT#######
+
+
+This is my first project at Microverse:Hello World Project 
+It will be done in Html and Css i.e mainly an introductory to a frontend (Client-side)
+We will touch on some features such as : branching & pull requests…
+We will also present the Linter configs and eventually configure it for Html and Css
+To run the project you will  need a computer with at least one browser installed 
+
+Author : Hydaline-code(Github username)
+##########
+
 # HTML & CSS3 Course
 
 If you are not familiar with linters, read [root level README](../README.md).
@@ -95,3 +107,4 @@ a few modifications to the linter configuration files.
 
 Once you've done the previous steps you can focus on your SCSS files and not in fixing the generated CSS output
 every time.
+
